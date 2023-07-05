@@ -1,8 +1,3 @@
-/*  Program: To solve a SU-DO-KU: 
-    Date:23-sep-2013 @ 5.30:
-*/
-
-
 #include<iostream>
 using namespace std;
 
